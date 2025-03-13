@@ -2,6 +2,8 @@
 El siguiente proyecto muestra lo aprendido para el challenge de amigo secreto
 ## Descripcion de funcionamiento
 
+realize la prueba ![visita la pagina](https://ariescacy9.github.io/challenge-amigo-secreto_esp-main/)
+
 1. **introduccion**
 - inicialmente se muestra la paguina de inicio que va permitir ingresar los nombres de amigos y mostrarlos, luego se tiene un boton para realizar un sorteo y aleatoriamente se elejiran a un ganador y muestra
 ![imagen de ejemplo](imagen_muestra.png)
