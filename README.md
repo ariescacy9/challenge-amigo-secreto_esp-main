@@ -3,7 +3,7 @@ El siguiente proyecto muestra lo aprendido para el challenge de amigo secreto
 ## Descripcion de funcionamiento
 
 1. **introduccion**
-- inicialmente se muestra la paguina de inicio que va permitir ingresar los nombres de amigos y mostrarlos, luego se tiene un boton para realizar un sorteo y aleatoriamente se elejiran a un ganador y mostrar
+- inicialmente se muestra la paguina de inicio que va permitir ingresar los nombres de amigos y mostrarlos, luego se tiene un boton para realizar un sorteo y aleatoriamente se elejiran a un ganador y muestra
 ![imagen de ejemplo](imagen_muestra.png)
 
 2. **funcionamiento**
